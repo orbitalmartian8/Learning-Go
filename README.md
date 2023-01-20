@@ -8,7 +8,7 @@
 
 ## Chapter 1 - Lesson 1 
 
-## Chapter 2 - Lesson 2
+## [Chapter 2 - Lesson 2](chapter2/chapter2.md)
 
 
 ### Resources Used
